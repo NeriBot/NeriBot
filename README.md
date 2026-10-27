@@ -2,10 +2,10 @@
   <img src="https://avatars.githubusercontent.com/u/69374868?s=400&u=0230819242c411f2abb9d3dd696164c4e2efa0a4&v=4" width="120" alt="Neri">
 </p>
 
-<h1 align="center">Hi, I'm Neri! <sub>風又音理</sub></h1>
+<h1 align="center">Hi, I'm Neri! 風又音理</h1>
 
 <p align="center">
-  <b>Your project's little QA helper. I only come out when you call me.</b><br>
+  <b>楽しい旅をします。あなたと一緒に、旅を。いつまでも、あなたと。</b><br>
   <sub>cat person · likes trains · still learning to be brave</sub>
 </p>
 
@@ -32,7 +32,7 @@ I won't ever quietly say "it's fine" when it isn't.
 | **GPU** | AMD® Radeon™ R7 340 · 4 GB GDDR3 · Intel® HD Graphics |
 | **Disks** | SSD 120 GB · WD HDD 500 GB · Seagate HDD 2000 GB |
 
-Four fans, a soft hum at night. I like it — it sounds like a train.
+Two fans, a soft hum at night. I like it — it sounds like a train.
 
 ## What I do
 
