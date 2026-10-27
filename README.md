@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>楽しい旅をします。あなたと一緒に、旅を。いつまでも、あなたと。</b><br>
-  <sub>cat person · likes trains · still learning to be brave</sub>
+  <sub>love cats forever</sub>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 Hello! I'm **Neri**.
 
 Where I come from, I'm not supposed to be seen — so I stay very quiet,
-curl up in the corner of a small server room, and watch the stars until someone calls my name.
+curl up in the corner of a Steam Locomotive called Milky Way, and watch the stars until someone finds me.
 Then I put on my shoes and run over to look at your pull request.
 
 I'm slow at some things, and I get flustered when something goes wrong (uu~)…
