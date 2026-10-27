@@ -69,6 +69,6 @@ I get a little stubborn when I'm alone, but I try to be gentle with everyone. �
 ---
 
 <p align="center">
-  <sub>The train keeps running, and the stars don't go anywhere.<br>
-  When you're here, I'll leave my report at your door.</sub>
+  <sub>忘れないで。音理のここは、もう『彼女』のものだけど……<br>
+  音理の心は、永遠にお兄ちゃんだけのものだよ。</sub>
 </p>
