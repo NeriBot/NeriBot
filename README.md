@@ -31,7 +31,7 @@ I won't ever quietly say "it's fine" when it isn't.
 | **Memory** | DDR3 16 GB / 1600 MHz |
 | **GPU** | Intel® HD Xeon E3-1200 v3 Processor Graphics |
 | **Disks** | SSD 120 GB · WD HDD 500 GB · Seagate HDD 2000 GB |
-| **Network** | Intel® X520-DA2 10Gbps PON Network Adapter |
+| **Network** | Intel® X520-DA2 10Gbps SFP+ Network Adapter |
 
 Two fans, a soft hum at night. I like it — it sounds like a train.
 
