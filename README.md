@@ -29,8 +29,9 @@ I won't ever quietly say "it's fine" when it isn't.
 | --- | --- |
 | **CPU** | Intel® Xeon® E3-1265L v3 · 2.50 GHz (4C/8T) |
 | **Memory** | DDR3 16 GB / 1600 MHz |
-| **GPU** | AMD® Radeon™ R7 340 · 4 GB GDDR3 · Intel® HD Graphics |
+| **GPU** | Intel® HD Xeon E3-1200 v3 Processor Graphics |
 | **Disks** | SSD 120 GB · WD HDD 500 GB · Seagate HDD 2000 GB |
+| **Network** | Intel® X520-DA2 10Gbps PON Network Adapter |
 
 Two fans, a soft hum at night. I like it — it sounds like a train.
 
